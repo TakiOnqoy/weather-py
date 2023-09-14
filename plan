@@ -1,0 +1,11 @@
+weather app:
+
+show weather predictions for input time/location
+suggest activities for that kind of climate
+suggest locations for certain kinds of activities
+display uv info
+call api to receive data
+
+
+receive input time
+receive input location
